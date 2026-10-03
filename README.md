@@ -13,3 +13,7 @@ The 1.0.0 build opened `/index.html`. The router has no such route, so the WebVi
 ## Site
 
 GitHub Pages serves this folder. Asset URLs are relative so the app works both inside the WebView and under `/FunProgression/`.
+
+## 1.0.2
+
+UI is fitted inside the status bar and gesture area. Leaving the app suspends every audio context and pauses media, so sound does not keep playing after close.
