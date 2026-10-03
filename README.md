@@ -17,3 +17,7 @@ GitHub Pages serves this folder. Asset URLs are relative so the app works both i
 ## 1.0.2
 
 UI is fitted inside the status bar and gesture area. Leaving the app suspends every audio context and pauses media, so sound does not keep playing after close.
+
+## 1.0.3
+
+Scrolling is back. Speed and rate changes keep the current bar position instead of cutting the notes. Notes fade in, and the master chain is less harsh.
